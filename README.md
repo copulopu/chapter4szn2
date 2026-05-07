@@ -403,24 +403,24 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 2 Season  2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://saturn.nxa.app/12.61.zip |
+| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://saturn.nxa.app/12.61.zip | https://archive.org/download/fn-v12-archive/builds/12.61-CL-13498980.7z
 | 12.60-CL-13477524 | https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z |
-| 12.60-CL-13315662 | Lost |
+| 12.60-CL-13315662 | https://archive.org/download/fn-v12-archive/builds/12.60-CL-13315662.7z |
 | 12.50-CL-13193885 | Lost |
-| 12.50-CL-13137020 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view |
+| 12.50-CL-13137020 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://archive.org/download/fn-v12-archive/builds/12.50-CL-13137020.7z
 | 12.50-CL-13044369 | Lost |
-| 12.41-CL-12905909 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://cdn.cbn.lol/12.41 | https://fentti.xyz/upload/12.41.zip |
-| 12.40-CL-12837456 | https://public.simplyblk.xyz/12.40.rar |
+| 12.41-CL-12905909 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://cdn.cbn.lol/12.41 | https://fentti.xyz/upload/12.41.zip | https://archive.org/download/fn-v12-archive/builds/12.41-CL-12905909.7z
+| 12.40-CL-12837456 | https://public.simplyblk.xyz/12.40.rar | https://archive.org/download/fn-v12-archive/builds/12.40-CL-12837456.7z
 | 12.30-CL-12624643 | https://transfer.it/t/ODMlq0hH0BxD | https://archive.org/download/12.30-cl-12624643.7z/12.30-CL-12624643.7z | https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z
 | 12.30-CL-12493283 | Unavailable |
-| 12.21-CL-12353830 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view |
+| 12.21-CL-12353830 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view | https://archive.org/download/fn-v12-archive/builds/12.21-CL-12353830.7z
 | 12.20-CL-12236980 | https://public.simplyblk.xyz/12.20.rar |
-| 12.20-CL-12170032 | Lost |
-| 12.10-CL-11883027 | https://public.simplyblk.xyz/12.10.zip | https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view |
+| 12.20-CL-12170032 | https://archive.org/download/fn-v12-archive/builds/12.20-CL-12170032.7z |
+| 12.10-CL-11883027 | https://public.simplyblk.xyz/12.10.zip | https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view | https://archive.org/download/fn-v12-archive/builds/12.10-CL-11883027.7z
 | 12.10-CL-11794982 | Lost |
 | 12.00-CL-11586896 | https://public.simplyblk.xyz/12.00.rar |
 | 12.00-CL-11566760 | Lost |
-| 12.00-CL-11556442 | Unavailable |
+| 12.00-CL-11556442 | https://archive.org/download/fn-v12-archive/builds/12.00-CL-11556442.7z |
 
 ## Chapter 2 Season  1
 | Build | Download | Alternative Download | Alternative Download
