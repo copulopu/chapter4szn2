@@ -188,7 +188,7 @@ And if your download link is on this archive and your not in the credits make an
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 26.30-CL-28688692 | http://r2.ploosh.dev/26.30-CL-28688692.zip | https://fn-builds.repressoh.it/26.30-CL-28688692.zip |
-| 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip |
+| 26.30-CL-28509302 | https://fnbuilds.site/26.30-CL-28509302.7z | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip |
 | 26.20-CL-28096793 | Unavailable |
 | 26.10-CL-27681420 | Unavailable |
 | 26.00-CL-27424790 | https://fnbuilds.site/26.00-CL-27424790.7z |
