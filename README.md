@@ -370,21 +370,21 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 2 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://public.simplyblk.xyz/14.60.zip |
+| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://public.simplyblk.xyz/14.60.zip | https://archive.org/download/fn-v14-archive/builds/14.60-CL-14786821.7z
 | 14.60-CL-14785135 | Lost |
 | 14.60-CL-14756138 | Lost |
-| 14.50-CL-14643651 | Unavailable |
+| 14.50-CL-14643651 | https://archive.org/download/fn-v14-archive/builds/14.50-CL-14643651.7z |
 | 14.50-CL-14617811 | Lost |
-| 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar | https://cdn.solarisfn.dev/Builds/14.40.rar | https://nebulafn.com/downloads/14.40.zip |
+| 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar | https://cdn.solarisfn.dev/Builds/14.40.rar | https://nebulafn.com/downloads/14.40.zip | https://archive.org/download/fn-v14-archive/builds/14.40-CL-14550713.7z
 | 14.40-CL-14512399 | Lost |
-| 14.30-CL-14456520 | https://fnbuilds.site/14.30-CL-14456520.rar | https://gofile.io/d/47NC7f |
-| 14.20-CL-14384759 | https://fn-builds.repressoh.it/14.20-CL-14384759.rar |
+| 14.30-CL-14456520 | https://fnbuilds.site/14.30-CL-14456520.rar | https://gofile.io/d/47NC7f | https://archive.org/download/fn-v14-archive/builds/14.30-CL-14456520.7z
+| 14.20-CL-14384759 | https://fn-builds.repressoh.it/14.20-CL-14384759.rar | https://archive.org/download/fn-v14-archive/builds/14.20-CL-14384759.7z
 | 14.20-CL-14375974 | Lost |
 | 14.20-CL-14354056 | Lost |
-| 14.10-CL-14312695 | https://fn-builds.repressoh.it/14.10-CL-14312695.rar |
+| 14.10-CL-14312695 | https://fn-builds.repressoh.it/14.10-CL-14312695.rar | https://archive.org/download/fn-v14-archive/builds/14.10-CL-14312695.7z
 | 14.10-CL-14288110 | Lost |
 | 14.10-CL-14276912 | Lost |
-| 14.00-CL-14211474 | https://public.simplyblk.xyz/14.00.rar |
+| 14.00-CL-14211474 | https://public.simplyblk.xyz/14.00.rar | https://archive.org/download/fn-v14-archive/builds/14.00-CL-14211474.7z
 | 14.00-CL-14199892 | Lost |
 | 14.00-CL-14173417 | Lost |
 
