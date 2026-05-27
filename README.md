@@ -292,7 +292,7 @@ And if your download link is on this archive and your not in the credits make an
 | 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar |
 | 19.30-CL-18948597 | Unavailable |
 | 19.20-CL-18775446 | https://fnbuilds.site/19.20-CL-18775446.rar |
-| 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://fn-builds.repressoh.it/19.10.rar | 
+| 19.10-CL-18675304 | https://cdn.astrafn.site/Fortnite%2019.10.7z | https://fn-builds.repressoh.it/19.10.rar | 
 | 19.10-CL-18640491 | Lost |
 | 19.10-CL-18581131 | Lost | 
 | 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip | https://fn-builds.repressoh.it/19.01-CL-18489740.zip | https://public.simplyblk.xyz/19.01.zip | 
@@ -371,7 +371,7 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 2 Season  4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://public.simplyblk.xyz/14.60.zip | https://archive.org/download/fn-v14-archive/builds/14.60-CL-14786821.7z
+| 14.60-CL-14786821 | https://builds.astrafn.site/14.60.7z | https://archive.org/download/fn-v14-archive/builds/14.60-CL-14786821.7z
 | 14.60-CL-14785135 | Lost |
 | 14.60-CL-14756138 | Lost |
 | 14.50-CL-14643651 | https://archive.org/download/fn-v14-archive/builds/14.50-CL-14643651.7z |
