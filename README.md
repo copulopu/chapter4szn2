@@ -22,11 +22,12 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 7 Season  2 
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 40.40-CL-53683214 | Available by Manifest |
-| 40.30-CL-53093531 | Available by Manifest |
-| 40.20-CL-52900211 | Available by Manifest |
-| 40.20-CL-52463280 | Available by Manifest |
-| 40.10-CL-52157884 | Available by Manifest |
+| 40.41-CL-54326946 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 40.40-CL-53683214 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 40.30-CL-53093531 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 40.20-CL-52900211 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 40.20-CL-52463280 | [Available by Manifest](https://github.com/polynite/fn-releases) |
+| 40.10-CL-52157884 | [Available by Manifest](https://github.com/polynite/fn-releases) |
 | 40.00-CL-51995682 | [note this version has stw only reason why its bigger](https://archive.org/download/40.00-CL-51746096/40.00-CL-51995682.zip) |
 | 40.00-CL-51746096 | https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip | https://fn-builds.repressoh.it/40.00-CL-51746096.zip
 
