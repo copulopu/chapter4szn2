@@ -341,19 +341,19 @@ And if your download link is on this archive and your not in the credits make an
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 16.50-CL-16469788 | Unavailable |
-| 16.50-CL-16432754 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-15.50-CL-15526472.zip |https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
-| 16.40-CL-16218553 | https://public.simplyblk.xyz/16.40.rar |
-| 16.30-CL-16163563 | https://public.simplyblk.xyz/16.30.zip | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
+| 16.50-CL-16432754 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-16.50-CL-16432754.rar |https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view | https://archive.org/download/fn-v16-archive/builds/16.50-CL-16432754.7z
+| 16.40-CL-16218553 | https://public.simplyblk.xyz/16.40.rar | https://archive.org/download/fn-v16-archive/builds/16.40-CL-16218553.7z
+| 16.30-CL-16163563 | https://public.simplyblk.xyz/16.30.zip | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view | https://archive.org/download/fn-v16-archive/builds/16.30-CL-16163563.7z
 | 16.30-CL-16086208 | Lost |
 | 16.20-CL-16042441 | https://public.simplyblk.xyz/16.20.rar |
-| 16.10-CL-15913292 | https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z |
+| 16.10-CL-15913292 | https://download.fn-archive.com/FortniteClient-16.10-CL-15913292.7z | https://archive.org/download/fn-v16-archive/builds/16.10-CL-15913292.7z
 | 16.10-CL-15898731 | Lost |
 | 16.10-CL-15862581 | Lost |
 | 16.10-CL-15862581 | Lost |
 | 16.10-CL-15851811 | Lost |
 | 16.00-CL-15727376 | Unavailable |
 | 16.00-CL-15713390 | Lost |
-| 16.00-CL-15685441 | https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z |
+| 16.00-CL-15685441 | https://download.fn-archive.com/FortniteClient-16.00-CL-15685441.7z | https://archive.org/download/fn-v16-archive/builds/16.00-CL-15685441.7z
 
 ## Chapter 2 Season  5
 | Build | Download | Alternative Download | Alternative Download
