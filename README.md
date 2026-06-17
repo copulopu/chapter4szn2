@@ -17,7 +17,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 And if your download link is on this archive and your not in the credits make an issue or just dm me on discord 
 
 # Errors
-- If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot or if there is a download link thats down make an issue as well (ik s39 builds arent working the creator of it is adding them back soon)
+- If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot or if there is a download link thats down make an issue as well 
 
 ## Chapter 7 Season  3 
 | Build | Download | Alternative Download | Alternative Download
