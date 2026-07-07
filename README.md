@@ -152,8 +152,8 @@ And if your download link is on this archive and your not in the credits make an
 |--------------|---------------|---------------|---------------|
 | 30.40-CL-35235494 | Unavailable |
 | 30.30-CL-34891016 | Unavailable |
-| 30.20-CL-34597766 | https://fn-builds.repressoh.it/30.20-CL-34597766.rar |
-| 30.20-CL-34488544 | Unavailable |
+| 30.20-CL-34597766 |  https://fn-builds.repressoh.it/30.20-CL-34597766.rar | 
+| 30.20-CL-34488544 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-30.20-CL-34488544.rar |
 | 30.10-CL-34399867 | Unavailable |
 | 30.10-CL-34261954 | Unavailable |
 | 30.10-CL-34184790 | https://fn-builds.repressoh.it/30.10-CL-34184790.rar |
@@ -163,7 +163,7 @@ And if your download link is on this archive and your not in the credits make an
 ## Chapter 5 Season 2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar | 
+| 29.40-CL-33629566 | [UEFN Is added with this one](https://fnbuilds.site/29.40-CL-33629566%20%2B%20UEFN.rar) | https://fn-builds.repressoh.it/29.40.rar | 
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
 | 29.30-CL-32982357 | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
