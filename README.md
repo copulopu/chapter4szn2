@@ -1,10 +1,8 @@
-Hello, Welcome to Llamaqwerty fork, Which is one of top 3 largest build archives, with many added builds (Lost, Unavailable, and Manifestable builds have been added), visit my [website](https://fn-archive.vercel.app) that has the same builds but no lost, unavailable, or manifestables there and overall looks cleaner, and if for some reason you dont like it either just go here https://builds.fnbuilds.site i'll just be adding lost builds there and some recent ones as well like (it kinda looks liek fn-repressoh website but looks slightly better)
+Hello, Welcome to Helix's FN Builds Archive! (Fork of Llamaqwerty's Archive) If you have any problems make an issue and i'll try my best to help you. (if you can't download builds from here https://builds.rebootfn.org its not you its the link i think, but on order for to download builds with that link you just need to use this https://one.one.one.one/ to download it ) 
 
-For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for them
-
-## Credits:
+## Credits: (dm me on discord:helix.67 if your download link is here but you don't have credits)
 - Credits go Ka Pum on discord for providing me some lost/unavailable builds
-- Credits to ploosh for many builds here, but 2 specificaly are 26.30-28688692, and 26.30-28509302
+- Credits to ploosh for many builds here
 - Credits go Pak for many og builds and some recent ones as well
 - Credits go to ElectricArchive for s37 builds (which i thought were lost) and other builds as well like s38, s39, s36, s35
 - Credits go to Jalen, for finding lost/unavailable download links
@@ -14,10 +12,7 @@ For UEFN Builds head over to https://github.com/Helix-Dev-Q/UEFN-Archive for the
 - Cedits go to Primus03 for 19.20 and 26.00
 - Credits go to me for uploading some builds onto here as well 
 
-And if your download link is on this archive and your not in the credits make an issue or just dm me on discord 
-
-# Errors
-- If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot or if there is a download link thats down make an issue as well 
+If you have any builds that you can provide make an issue or dm me on discord (only builds that aren't on here)
 
 ## Chapter 7 Season  3 
 | Build | Download | Alternative Download | Alternative Download
