@@ -78,8 +78,8 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 |--------------|---------------|---------------|---------------|
 | 36.30-CL-44367537 | https://archive.org/download/fn-v36-archive/36.30-CL-44367537.zip |
 | 36.20-CL-44118662 | https://archive.org/download/fn-v36-archive/36.20-CL-44118662.zip |
-| 36.10-CL-43997926 | https://archive.org/download/fn-v36-archive/36.10-CL-43997926.zip |
 | 36.20-CL-43847582 | https://archive.org/download/fn-v36-archive/36.20-CL-43847582.zip |
+| 36.10-CL-43997926 | https://archive.org/download/fn-v36-archive/36.10-CL-43997926.zip |
 | 36.10-CL-43713507 | https://archive.org/download/fn-v36-archive/36.10-CL-43713507.zip |
 | 36.10-CL-43486998 | https://archive.org/download/fn-v36-archive/36.10-CL-43486998.zip |
 | 36.00-CL-43339403 | https://archive.org/download/fn-v36-archive/36.00-CL-43339403.zip |
