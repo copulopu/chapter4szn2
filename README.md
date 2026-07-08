@@ -1,4 +1,4 @@
-Hello, Welcome to Helix's FN Builds Archive! (Fork of Llamaqwerty's Archive) If you have any problems make an issue and i'll try my best to help you. (if you can't download builds from here https://builds.rebootfn.org its not you its the link i think, but on order for to download builds with that link you just need to use this https://one.one.one.one/ to download it ) 
+Hello, Welcome to Helix's FN Builds Archive! (Fork of Llamaqwerty's Archive) If you have any problems make an issue and i'll try my best to help you. (if you can't download builds from here https://builds.rebootfn.org its not you its the link i think, but on order for to download builds with that link you just need to use this https://one.one.one.one/ to download it) Here's my websites https://builds.fnbuilds.site/ https://fn-archive.vercel.app/ 
 
 ## Credits: (dm me on discord:helix.67 if your download link is here but you don't have credits)
 - Credits go Ka Pum on discord for providing me some lost/unavailable builds
@@ -147,8 +147,8 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 |--------------|---------------|---------------|---------------|
 | 30.40-CL-35235494 | Unavailable |
 | 30.30-CL-34891016 | Unavailable |
-| 30.20-CL-34597766 |  https://fn-builds.repressoh.it/30.20-CL-34597766.rar | 
-| 30.20-CL-34488544 | https://fnbuilds.site/%2B%2BFortnite%2BRelease-30.20-CL-34488544.rar |
+| 30.20-CL-34597766 | https://fn-builds.repressoh.it/30.20-CL-34597766.rar | 
+| 30.20-CL-34488544 | [Has Patched EXE so your able to launch it](https://fnbuilds.site/30.20-CL-34488544.rar) |
 | 30.10-CL-34399867 | Unavailable |
 | 30.10-CL-34261954 | Unavailable |
 | 30.10-CL-34184790 | https://fn-builds.repressoh.it/30.10-CL-34184790.rar |
@@ -162,7 +162,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
 | 29.30-CL-32982357 | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
-| 29.20-CL-32716692 | https://cold-na-phx-2.gofile.io/download/web/4bcd936b-afe8-4a72-9386-5936b7d7e87d/29.20-CL-32716692.7z |
+| 29.20-CL-32716692 | https://fnbuilds.site/29.20-CL-32716692.7z |
 | 29.10-CL-32567225 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
 | 29.01-CL-32291970 | Unavailable |
@@ -201,7 +201,7 @@ If you have any builds that you can provide make an issue or dm me on discord (o
 ## Chapter 4 Season  3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.30-CL-26867995 | Unavailable |
+| 25.30-CL-26867995 | https://fnbuilds.site/25.30-CL-26867995%2BUEFN.rar |
 | 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | https://fn-builds.repressoh.it/25.20.zip |  |
 | 25.20-CL-26474516 | Unavailable |
 | 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip |  |
